@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "connect-mongoose": "0.0.2",
+    "connect-mongo": "^2.0.1",
+    "express-session": "^1.15.6",
+    "mongod": "^2.0.0",
+    "mongodb": "^3.0.4",
     "mongoose": "^5.0.9",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",

@@ -1,4 +1,5 @@
 var mongoose = require('mongoose');
+var session = require('express-session');
 var MongoStore = require('connect-mongo')(session);
 var connect = mongoose.connect('mongodb://localhost:27017/acme', {
 	useMongoClient: true
