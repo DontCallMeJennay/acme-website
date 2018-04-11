@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './database'
 
 class App extends Component {
   render() {
