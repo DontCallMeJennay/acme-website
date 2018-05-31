@@ -1,0 +1,9 @@
+        <Router>
+        <Route exact path='/' component={Home}/>
+        <Route exact path='/about' component={AboutUs}/>
+        <Route exact path='/products' component={ProductDirectory}/>
+        <Route exact path='/contact' component={ContactUs}/>
+        
+        ....
+
+        </Router>

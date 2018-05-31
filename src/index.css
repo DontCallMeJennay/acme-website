@@ -10,3 +10,21 @@ body {
     font-size: 2.5em;
     font-weight: bold;
 }
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 5vw;
+}
+
+nav ul li {
+    list-style: none;
+    padding: 1em;
+}
