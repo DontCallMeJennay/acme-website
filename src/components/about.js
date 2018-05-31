@@ -1,10 +1,10 @@
 import React from 'react';
-//import "../css/about.css";
+import "../css/about.css";
 
 export default class About extends React.Component {
     render() {
         return (
-            <div>
+            <div className="about">
                 <p>
                     For over 65 years, ACME Company has... Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo! Meh. We're also Santa Claus! That's a popular name today. Little "e", big "B"?
                     And remember, don't do anything that affects anything, unless it turns out you were supposed to, in which case, for the love of God, don't not do it! Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.

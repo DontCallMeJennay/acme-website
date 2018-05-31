@@ -1,8 +1,6 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
-import Home from "./home";
-import About from "./about";
-import ProductMain from "./product-main";
+import { BrowserRouter as Router, Link } from 'react-router-dom';
+
 import Main from "./main";
 import "../css/header.css";
 
