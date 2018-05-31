@@ -1,0 +1,37 @@
+/* Home component styles */
+
+div {
+    align-items: center;
+    display: flex;
+    flex-flow: row;
+    margin: 5vh auto;
+    max-width: 75vw;
+}
+
+h2 {
+    margin: auto 10vw;
+}
+
+p {
+    margin: 1em;
+}
+
+.panel {
+    color: red;
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center;
+    padding: 1em;
+    width: 15vw;
+    height: 15vw;
+}
+
+.panel p {
+    color: black;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.panel .small {
+    font-size: 0.8em;
+}

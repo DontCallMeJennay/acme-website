@@ -1,0 +1,16 @@
+/* About Us component styles */
+
+div {
+    display: flex;
+    flex-flow: row;
+    margin: 5vh auto;
+    max-width: 75vw;
+}
+
+h2 {
+    margin: auto 10vw;
+}
+
+p {
+    margin: 1em;
+}

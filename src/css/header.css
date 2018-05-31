@@ -1,0 +1,25 @@
+/* Header styles */
+
+header {
+    align-items: flex-end;
+    box-shadow: 0 3px 3px red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 0;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+nav ul li {
+    list-style: none;
+    padding: 0.5em 1em;
+}
