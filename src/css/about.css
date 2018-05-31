@@ -1,16 +1,16 @@
 /* About Us component styles */
 
-div {
+.about {
     display: flex;
     flex-flow: row;
     margin: 5vh auto;
     max-width: 75vw;
 }
 
-h2 {
+.about h2 {
     margin: auto 10vw;
 }
 
-p {
+.about p {
     margin: 1em;
 }

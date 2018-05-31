@@ -24,6 +24,20 @@ nav ul li {
     padding: 0.5em 1em;
 }
 
-footer {
-    min-height: 3em;
+nav a {
+    color: black;
+}
+
+a {
+    color: red;
+    padding: 0.5em;
+    text-decoration: none;
+}
+
+a:focus,
+a:active {
+    background-color: orangered;
+    color: black;
+    font-weight: bold;
+    padding: 0.4em;
 }
