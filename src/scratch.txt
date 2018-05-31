@@ -3,6 +3,9 @@
         <Route exact path='/about' component={AboutUs}/>
         <Route exact path='/products' component={ProductDirectory}/>
         <Route exact path='/contact' component={ContactUs}/>
+        <Route exact path='/contact' component={Checkout}/>
+        <Route exact path='/contact' component={Login}/>
+
         
         ....
 
