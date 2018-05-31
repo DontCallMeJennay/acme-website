@@ -13,7 +13,7 @@ export default class AppHeader extends React.Component {
                         <h1><Link to="/" className="title-logo">ACME</Link> Device Company</h1>
                         <nav>
                             <ul>
-                                <li><Link to="/about">About Us</Link></li>
+                                <li><Link to="/about">About</Link></li>
                                 <li><Link to="/products">Products</Link></li>
                                 <li><Link to="/contact">Contact</Link></li>
                                 <li><Link to="/checkout">[Cart]</Link></li>

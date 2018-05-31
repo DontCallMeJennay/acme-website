@@ -1,0 +1,9 @@
+/* Footer styles */
+
+footer {
+    background-color: orangered;
+    background: linear-gradient(to bottom, orange 5%, orangered 15%, red 50%);
+    color: white;
+    min-height: 10vh;
+    text-align: center;
+}
