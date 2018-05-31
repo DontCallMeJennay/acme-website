@@ -1,18 +1,19 @@
 /* Home component styles */
 
-div {
+.panels {
     align-items: center;
     display: flex;
     flex-flow: row;
+    justify-content: center;
     margin: 5vh auto;
     max-width: 75vw;
 }
 
-h2 {
+.panel h2 {
     margin: auto 10vw;
 }
 
-p {
+.panel p {
     margin: 1em;
 }
 
@@ -20,10 +21,11 @@ p {
     color: red;
     display: flex;
     flex-direction: column !important;
+    height: 25vw;
     justify-content: center;
     padding: 1em;
-    width: 15vw;
-    height: 15vw;
+    text-align: center;
+    width: 25vw;
 }
 
 .panel p {
