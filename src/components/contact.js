@@ -1,7 +1,7 @@
 import React from 'react';
 import {BrowserRouter as Router, Route, Link} from 'react-router-dom';
-import SearchPanel from './search-panel';
-import SearchResults from './search-results';
+import SearchPanel from './products/search-panel';
+import SearchResults from './products/search-results';
 
 export default class Contact extends React.Component {
     render() {
