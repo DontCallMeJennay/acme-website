@@ -1,0 +1,10 @@
+.product-nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.product-nav li {
+    list-style: none;
+    padding: 1em;
+}
